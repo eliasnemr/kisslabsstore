@@ -1,12 +1,12 @@
 {
   "name":"KISS Labs",
   "description":"Building for simplicity",
-  "icon":"https://storage.googleapis.com/minidapps-363120.appspot.com/icons/mainnet/minima_logo.png",
+  "icon":"https://github.com/eliasnemr/kisslabsstore/blob/main/store.png",
   "version":"1.0",
   "dapps":[
     {
-      "file":"https://storage.googleapis.com/minidapps-363120.appspot.com/minidapps/scriptide-2.0.1.mds.zip",
-      "icon":"https://storage.googleapis.com/minidapps-363120.appspot.com/icons/mainnet/scriptide.png",
+      "file":"https://github.com/eliasnemr/kisslabsstore/blob/main/simplewallet/simple-1.0.1.mds.zip",
+      "icon":"https://github.com/eliasnemr/kisslabsstore/blob/main/simplewallet/icon.png",
       "name":"SIMPLE",
       "description": "Simple but effective Wallet",
       "version" : "2.0.1",
