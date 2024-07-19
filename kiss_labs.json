@@ -5,11 +5,11 @@
   "version":"1.0",
   "dapps":[
     {
-      "file":"https://eliasnem.github.io/kisslabsstore/simplewallet/simple-1.0.1.mds.zip",
-      "icon":"https://eliasnem.github.io/kisslabsstore/simplewallet/icon.png",
+      "file":"https://eliasnemr.github.io/kisslabsstore/simplewallet/simple-1.0.1.mds.zip",
+      "icon":"https://eliasnemr.github.io/kisslabsstore/simplewallet/icon.png",
       "name":"SIMPLE",
       "description": "Simple but effective Wallet",
-      "version" : "2.0.1",
+      "version" : "1.0.1",
       "about" : ["I built this for myself, I built it with simplicity in mind"],
       "update" : "- first iteration",
       "date" : "Jul 19, 2024",
