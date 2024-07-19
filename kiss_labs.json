@@ -1,0 +1,20 @@
+{
+  "name":"KISS Labs",
+  "description":"Building for simplicity",
+  "icon":"https://storage.googleapis.com/minidapps-363120.appspot.com/icons/mainnet/minima_logo.png",
+  "version":"1.0",
+  "dapps":[
+    {
+      "file":"https://storage.googleapis.com/minidapps-363120.appspot.com/minidapps/scriptide-2.0.1.mds.zip",
+      "icon":"https://storage.googleapis.com/minidapps-363120.appspot.com/icons/mainnet/scriptide.png",
+      "name":"SIMPLE",
+      "description": "Simple but effective Wallet",
+      "version" : "2.0.1",
+      "about" : ["I built this for myself, I built it with simplicity in mind"],
+      "update" : "- first iteration",
+      "date" : "Jul 19, 2024",
+      "history" :[
+      ]
+    },
+  ]
+}
