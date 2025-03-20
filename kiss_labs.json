@@ -15,6 +15,102 @@
       "date" : "Jul 19, 2024",
       "history" :[
       ]
+    },
+    {
+      "file":"https://eliasnemr.github.io/kisslabsstore/token-studio/token-studio-1.5.0.mds.zip",
+      "icon":"https://eliasnemr.github.io/kisslabsstore/token-studio/icon.png",
+      "name":"Token Studio",
+      "description": "A token launchpad for Minima",
+      "version" : "1.5.0",
+      "about" : ["Create NFTs, simple or custom tokens"],
+      "update" : "- first iteration",
+      "date" : "Jul 19, 2024",
+      "history" :[
+      ]
+    },
+    {
+      "file":"https://eliasnemr.github.io/kisslabsstore/soko/soko-1.0.1.mds.zip",
+      "icon":"https://eliasnemr.github.io/kisslabsstore/soko/icon.png",
+      "name":"Soko",
+      "description": "A NFT Marketplace",
+      "version" : "1.0.1",
+      "about" : ["Buy and sell NFTs on Minima"],
+      "update" : "- first iteration",
+      "date" : "Jul 19, 2024",
+      "history" :[
+      ]
+    },
+    {
+      "file":"https://eliasnemr.github.io/kisslabsstore/security/security-1.14.3.mds.zip",
+      "icon":"https://eliasnemr.github.io/kisslabsstore/security/icon.png",
+      "name":"Security",
+      "description": "Secure your node",
+      "version" : "1.14.3",
+      "about" : ["Secure your Node"],
+      "update" : "- first iteration",
+      "date" : "Jul 19, 2024",
+      "history" :[
+      ]
+    },
+    {
+      "file":"https://eliasnemr.github.io/kisslabsstore/resume-creator/simple-resume-builder-0.1.0.mds.zip",
+      "icon":"https://eliasnemr.github.io/kisslabsstore/resume-creator/icon.png",
+      "name":"Resume Creator",
+      "description": "Create a resume",
+      "version" : "0.1.0",
+      "about" : ["Create a resume"],
+      "update" : "- first iteration",
+      "date" : "Jul 19, 2024",
+      "history" :[
+      ]
+    },
+    {
+      "file":"https://eliasnemr.github.io/kisslabsstore/miniverse/mini-verse-0.3.0.mds.zip",
+      "icon":"https://eliasnemr.github.io/kisslabsstore/miniverse/icon.png",
+      "name":"Miniverse",
+      "description": "The Minima Verse",
+      "version" : "0.3.0",
+      "about" : ["Run around the mini-verse"],
+      "update" : "- first iteration",
+      "date" : "Jul 19, 2024",
+      "history" :[
+      ]
+    },
+    {
+      "file":"https://eliasnemr.github.io/kisslabsstore/futurecash/futurecash-2.7.1.mds.zip",
+      "icon":"https://eliasnemr.github.io/kisslabsstore/futurecash/icon.png",
+      "name":"Future Cash",
+      "description": "Send cash to the future!",
+      "version" : "2.7.1",
+      "about" : ["Lock up some Minima for you or your loved ones"],
+      "update" : "- first iteration",
+      "date" : "Jul 19, 2024",
+      "history" :[
+      ]
+    },
+    {
+      "file":"https://eliasnemr.github.io/kisslabsstore/coin-penguin/coinpenguin-0.1.0.mds.zip",
+      "icon":"https://eliasnemr.github.io/kisslabsstore/coin-penguin/icon.png",
+      "name":"Coin Penguin",
+      "description": "Dev tools for Minima coins DB",
+      "version" : "0.1.0",
+      "about" : ["Dev tools"],
+      "update" : "- first iteration",
+      "date" : "Jul 19, 2024",
+      "history" :[
+      ]
+    },
+    {
+      "file":"https://eliasnemr.github.io/kisslabsstore/axe-s3/axe-s3-1.0.0.mds.zip",
+      "icon":"https://eliasnemr.github.io/kisslabsstore/axe-s3/icon.png",
+      "name":"Axe S3",
+      "description": "Prove ownership for a Minima token or NFT",
+      "version" : "1.0.0",
+      "about" : ["Prove ownership for a Minima NFT"],
+      "update" : "- first iteration",
+      "date" : "Jul 19, 2024",
+      "history" :[
+      ]
     }
   ]
 }
