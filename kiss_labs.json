@@ -111,6 +111,18 @@
       "date" : "Jul 19, 2024",
       "history" :[
       ]
+    },
+    {
+      "file":"https://eliasnemr.github.io/kisslabsstore/dapp-generator/dapp-generator-0.1.0.mds.zip",
+      "icon":"https://eliasnemr.github.io/kisslabsstore/dapp-generator/icon.png",
+      "name":"Dapp Generator",
+      "description": "Generate a simple website for the MiniWeb",
+      "version" : "0.1.0",
+      "about" : ["Generate a simple website for the MiniWeb"],
+      "update" : "- first iteration",
+      "date" : "Jul 19, 2024",
+      "history" :[
+      ]
     }
   ]
 }
