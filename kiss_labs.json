@@ -41,14 +41,14 @@
       ]
     },
     {
-      "file":"https://eliasnemr.github.io/kisslabsstore/security/security-1.14.3.mds.zip",
+      "file":"https://eliasnemr.github.io/kisslabsstore/security/security-1.15.0.mds.zip",
       "icon":"https://eliasnemr.github.io/kisslabsstore/security/icon.png",
       "name":"Security",
       "description": "Secure your node",
-      "version" : "1.14.3",
+      "version" : "1.15.0",
       "about" : ["Secure your Node"],
-      "update" : "- first iteration",
-      "date" : "Jul 19, 2024",
+      "update" : "- Can now quick sync with vault locked",
+      "date" : "Mar 25, 2025",
       "history" :[
       ]
     },
@@ -120,6 +120,18 @@
       "version" : "0.1.0",
       "about" : ["Generate a simple website for the MiniWeb"],
       "update" : "- first iteration",
+      "date" : "Jul 19, 2024",
+      "history" :[
+      ]
+    },
+    {
+      "file":"https://eliasnemr.github.io/kisslabsstore/miniswap/miniswap-2.21.0.mds.zip",
+      "icon":"https://eliasnemr.github.io/kisslabsstore/miniswap/icon.png",
+      "name":"MiniSwap",
+      "description": "Buy/Sell Native Minima for USDT on Ethereum's network",
+      "version" : "2.21.0",
+      "about" : ["Buy/Sell Native Minima for USDT on Ethereum's network"],
+      "update" : "- Remove wMinima from complete orderbook on trade window",
       "date" : "Jul 19, 2024",
       "history" :[
       ]
